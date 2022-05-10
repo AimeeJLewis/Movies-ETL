@@ -1,1 +1,2 @@
 # Movies-ETL
+## The purpose of this analysis was to learn how to Extract, Transform, and Load data into tables to a PostgreSQL database.  We helped Amazing Prime take data from three files - Wikipedia data, Kaggle metadata, and the MovieLens rating data and create an automated pipeline by refactoring our module code to create one function that takes in the three files, and performs the ETL process. 
